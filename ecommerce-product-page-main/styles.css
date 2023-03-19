@@ -237,9 +237,15 @@ main{
     
 }
 
+.icon-cart{
+    padding-left: 0.5rem;
+    padding-top: 0.5rem;
+}
 
-
-
+.name{
+    padding-top: 0.5rem;
+    padding-left: 0.5rem;
+}
 
 
 
